@@ -33,3 +33,5 @@ Temporary Items
 
 # debug file
 _site
+*.md
+_posts/2016-10-10-iOS-手势与变形.md
